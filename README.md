@@ -1,0 +1,1 @@
+# binance-dinamic-stop-loss
